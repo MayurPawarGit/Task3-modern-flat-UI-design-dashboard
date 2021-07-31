@@ -3,7 +3,6 @@ c:\users\shree\documents\visual studio 2012\Projects\Task3 modern flat UI design
 c:\users\shree\documents\visual studio 2012\Projects\Task3 modern flat UI design dashboard\Task3 modern flat UI design dashboard\bin\Debug\Task3 modern flat UI design dashboard.pdb
 c:\users\shree\documents\visual studio 2012\Projects\Task3 modern flat UI design dashboard\Task3 modern flat UI design dashboard\bin\Debug\FontAwesome.Sharp.dll
 c:\users\shree\documents\visual studio 2012\Projects\Task3 modern flat UI design dashboard\Task3 modern flat UI design dashboard\obj\Debug\Task3 modern flat UI design dashboard.csprojResolveAssemblyReference.cache
-c:\users\shree\documents\visual studio 2012\Projects\Task3 modern flat UI design dashboard\Task3 modern flat UI design dashboard\obj\Debug\Task3_modern_flat_UI_design_dashboard.Form1.resources
 c:\users\shree\documents\visual studio 2012\Projects\Task3 modern flat UI design dashboard\Task3 modern flat UI design dashboard\obj\Debug\Task3_modern_flat_UI_design_dashboard.Properties.Resources.resources
 c:\users\shree\documents\visual studio 2012\Projects\Task3 modern flat UI design dashboard\Task3 modern flat UI design dashboard\obj\Debug\Task3 modern flat UI design dashboard.csproj.GenerateResource.Cache
 c:\users\shree\documents\visual studio 2012\Projects\Task3 modern flat UI design dashboard\Task3 modern flat UI design dashboard\obj\Debug\Task3 modern flat UI design dashboard.exe
@@ -12,3 +11,10 @@ C:\Users\Shree\documents\visual studio 2012\Projects\Task3 modern flat UI design
 C:\Users\Shree\documents\visual studio 2012\Projects\Task3 modern flat UI design dashboard\Task3 modern flat UI design dashboard\bin\Debug\WinFormAnimation.dll
 C:\Users\Shree\documents\visual studio 2012\Projects\Task3 modern flat UI design dashboard\Task3 modern flat UI design dashboard\bin\Debug\CircularProgressBar.xml
 C:\Users\Shree\documents\visual studio 2012\Projects\Task3 modern flat UI design dashboard\Task3 modern flat UI design dashboard\bin\Debug\WinFormAnimation.xml
+C:\Users\Shree\documents\visual studio 2012\Projects\Task3 modern flat UI design dashboard\Task3 modern flat UI design dashboard\obj\Debug\Task3_modern_flat_UI_design_dashboard.Form_Main_Menu.resources
+C:\Users\Shree\documents\visual studio 2012\Projects\Task3 modern flat UI design dashboard\Task3 modern flat UI design dashboard\obj\Debug\Task3_modern_flat_UI_design_dashboard.FormDashboard.resources
+C:\Users\Shree\documents\visual studio 2012\Projects\Task3 modern flat UI design dashboard\Task3 modern flat UI design dashboard\obj\Debug\Task3_modern_flat_UI_design_dashboard.Forms.Formcustomer.resources
+C:\Users\Shree\documents\visual studio 2012\Projects\Task3 modern flat UI design dashboard\Task3 modern flat UI design dashboard\obj\Debug\Task3_modern_flat_UI_design_dashboard.Forms.Formnotification.resources
+C:\Users\Shree\documents\visual studio 2012\Projects\Task3 modern flat UI design dashboard\Task3 modern flat UI design dashboard\obj\Debug\Task3_modern_flat_UI_design_dashboard.Forms.Formorders.resources
+C:\Users\Shree\documents\visual studio 2012\Projects\Task3 modern flat UI design dashboard\Task3 modern flat UI design dashboard\obj\Debug\Task3_modern_flat_UI_design_dashboard.Forms.Formproducts.resources
+C:\Users\Shree\documents\visual studio 2012\Projects\Task3 modern flat UI design dashboard\Task3 modern flat UI design dashboard\obj\Debug\Task3_modern_flat_UI_design_dashboard.Forms.Formsetting.resources

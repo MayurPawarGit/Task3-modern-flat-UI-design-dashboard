@@ -11,7 +11,7 @@ using System.Runtime.InteropServices;
 
 namespace Task3_modern_flat_UI_design_dashboard
 {
-    public partial class Form1 : Form
+    public partial class FormDashboard : Form
     {
         [DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
         private static extern IntPtr CreateRoundRectRgn
@@ -24,7 +24,7 @@ namespace Task3_modern_flat_UI_design_dashboard
             int nHeightEllipse
         );
 
-        public Form1()
+        public FormDashboard()
         {
             InitializeComponent();
             Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0,0,Width,Height,25,25));
@@ -37,10 +37,7 @@ namespace Task3_modern_flat_UI_design_dashboard
        
             
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            
-        }
+       
 
         private void iconbtndashboard_Click(object sender, EventArgs e)
         {
@@ -101,6 +98,11 @@ namespace Task3_modern_flat_UI_design_dashboard
         private void iconbtnsetting_Leave(object sender, EventArgs e)
         {
             iconbtnsetting.BackColor = Color.DarkSlateGray;
+        }
+
+        private void FormDashboard_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

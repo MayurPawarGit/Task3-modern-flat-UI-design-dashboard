@@ -16,7 +16,8 @@ namespace Task3_modern_flat_UI_design_dashboard
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //Application.Run(new FormDashboard());
+            Application.Run(new Form_Main_Menu());
         }
     }
 }
