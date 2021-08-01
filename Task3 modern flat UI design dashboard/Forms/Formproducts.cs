@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FontAwesome.Sharp;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,23 @@ namespace Task3_modern_flat_UI_design_dashboard.Forms
         public Formproducts()
         {
             InitializeComponent();
+            loadtheme();
+        }
+        private void loadtheme()
+        {
+            foreach (Control btns in this.Controls)
+            {
+                if (btns.GetType() == typeof(IconButton))
+                {
+                    IconButton btn = (IconButton)btns;
+                    //btns.BackColor = Themecolor.primarycolor;
+                    btns.ForeColor = Color.Black;
+                   // btn.FlatAppearance.BorderColor = Themecolor.secondarycolor;
+
+                }
+            }
+            //labelformname.ForeColor = Themecolor.secondarycolor;
+           // label5.ForeColor = Themecolor.primarycolor;
         }
     }
 }
